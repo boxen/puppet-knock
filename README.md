@@ -1,4 +1,4 @@
-# Knock (To Unlock) Puppet Module for Boxen
+# Knock (to Unlock) Puppet Module for Boxen
 
 ## Usage
 
